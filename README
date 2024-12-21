@@ -1,0 +1,15 @@
+# Solving Linear Systems with CG, BiCG, and BiCGStab
+
+This project implements CG, BiCG, and BiCGStab methods in MATLAB for solving linear systems.  
+It includes performance benchmarks and comparisons on sparse and dense matrices.
+
+## Installation
+1. Clone this repository.
+2. Open the project in MATLAB or Octave.
+
+## Usage
+Run the main script to see performance comparisons.
+
+## Authors
+- Ismail EL HAMRAOUI
+- Aly KEITA
