@@ -1,0 +1,2 @@
+# Resolution-of-Linear-Systems-Using-CG-BiCG-and-BiCGStab-Methods-with-MATLAB
+### **Solving Linear Systems with CG, BiCG, and BiCGStab**  This repo provides MATLAB implementations of CG, BiCG, and BiCGStab methods for solving linear systems. It includes theoretical insights, performance analysis on sparse and dense matrices, and visualization. Created by Ismail EL HAMRAOUI &amp; Aly KEITA, supervised by Mohammed Heyouni.
